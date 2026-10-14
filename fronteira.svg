@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="230" viewBox="0 0 860 230">
+<rect width="860" height="230" rx="14" fill="#0d1117"/>
+<rect x="0.5" y="0.5" width="859" height="229" rx="14" fill="none" stroke="#30363d"/>
+<line x1="430.0" y1="30" x2="430.0" y2="30" stroke="#8b949e" stroke-width="2" stroke-dasharray="6 8"><animate attributeName="y2" from="30" to="200" begin="0.2s" dur="1s" fill="freeze"/></line>
+<text x="390.0" y="70" text-anchor="end" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="2" opacity="0">LIVRAMENTO · BR<animate attributeName="opacity" from="0" to="1" begin="1.0s" dur="0.8s" fill="freeze"/></text>
+<text x="470.0" y="70" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="2" opacity="0">RIVERA · UY<animate attributeName="opacity" from="0" to="1" begin="1.0s" dur="0.8s" fill="freeze"/></text>
+<text x="390.0" y="122" text-anchor="end" fill="#e6edf3" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="32" font-weight="700" opacity="0">Oi, eu sou a Mikaela.<animate attributeName="opacity" from="0" to="1" begin="1.3s" dur="0.8s" fill="freeze"/></text>
+<text x="470.0" y="122" fill="#e6edf3" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="32" font-weight="700" opacity="0">Hola, soy Mikaela.<animate attributeName="opacity" from="0" to="1" begin="1.9s" dur="0.8s" fill="freeze"/></text>
+<text x="390.0" y="160" text-anchor="end" fill="#8b949e" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" opacity="0">Desenvolvedora de software full stack.<animate attributeName="opacity" from="0" to="1" begin="2.5s" dur="0.8s" fill="freeze"/></text>
+<text x="470.0" y="160" fill="#8b949e" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" opacity="0">Desarrolladora de software full stack.<animate attributeName="opacity" from="0" to="1" begin="2.9s" dur="0.8s" fill="freeze"/></text>
+<text x="430.0" y="216" text-anchor="middle" fill="#f2c14e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" opacity="0">Fronteira da Paz<animate attributeName="opacity" from="0" to="1" begin="3.6s" dur="0.8s" fill="freeze"/></text>
+</svg>
