@@ -17,7 +17,3 @@ A maior parte do meu trabalho é no backend: APIs, bancos de dados e integraçõ
 - **Bancos de dados:** PostgreSQL, MongoDB, Redis
 - **Mensageria:** RabbitMQ
 - **DevOps:** Docker, Kubernetes, GitHub Actions, AWS
-
-### No momento
-
-Aberta a vagas full stack ou backend, remoto ou híbrido.

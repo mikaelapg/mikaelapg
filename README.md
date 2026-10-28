@@ -17,7 +17,3 @@ Most of my work is on the backend: APIs, databases and the integrations between 
 - **Databases:** PostgreSQL, MongoDB, Redis
 - **Messaging:** RabbitMQ
 - **DevOps:** Docker, Kubernetes, GitHub Actions, AWS
-
-### Currently
-
-Open to full stack or backend roles, remote or hybrid.
